@@ -1,0 +1,53 @@
+{
+  "en": {
+    "translation": {
+      "YOURLOGO": "YOUR LOGO",
+      "Assets": "Assets",
+      "Creators": "Creators",
+      "Careers": "Careers",
+      "GoPro": "Go Pro",
+      "Search": "Search",
+      "Security": "A SECURITY SOLUTION",
+      "Keep": "Keep track of your loved ones in real time!",
+      "p": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+      "h1": "Join Our Waitlist!",
+      "p2": "Be the first to get notified when the product is ready!",
+      "email": "Your email address",
+      "list": "Join List!"
+    }
+  },
+  "ru": {
+    "translation": {
+      "YOURLOGO": "ВАШ ЛОГОТИП",
+      "Assets": "Ресурсы",
+      "Creators": "Создатели",
+      "Careers": "Карьера",
+      "GoPro": "Стань профессионалом",
+      "Search": "Поиск",
+      "Security": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+      "Keep": "Следите за своими близкими в режиме реального времени!",
+      "p": "Мы заметили высокий уровень незащищенности в мире и задумались о том, как можно использовать технологии для борьбы с этой незащищенностью.",
+      "h1": "Присоединяйтесь к нашему списку ожидания!",
+      "p2": "Получите уведомление первым, когда продукт будет готов!",
+      "email": "Ваш электронный адрес",
+      "list": "Присоединяйтесь к списку!"
+    }
+  },
+  "uz": {
+    "translation": {
+      "YOURLOGO": "SIZNING LOGO",
+      "Assets": "Aktivlar",
+      "Creators": "Ijodkorlar",
+      "Careers": "Karyera",
+      "GoPro": "Pro-ga o'ting",
+      "Search": "Qidiruv",
+      "Security": "XAVFSIZLIK YECHIMI",
+      "Keep": "Haqiqiy vaqtda yaqinlaringizni kuzatib boring!",
+      "p": "Biz dunyoda yuqori darajadagi ishonchsizlikni payqadik va bu ishonchsizlikka qarshi kurashda texnologiyadan qanday foydalanish mumkinligi haqida o‘yladik.",
+      "h1": "Bizning kutish ro'yxatimizga qo'shiling!",
+      "p2": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
+      "email": "Sizning e-pochta manzilingiz",
+      "list": "Roʻyxatga qoʻshilish!"
+    }
+  }
+}

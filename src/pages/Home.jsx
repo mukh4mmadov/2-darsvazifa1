@@ -49,28 +49,27 @@ function Home() {
       </header>
 
       <main className="main">
-  <div className="div-1 flex">
-    <div className="div-p">
-      <h3 className="Security">{t("Security")}</h3>
-      <h1 className="Keep">{t("Keep")}</h1>
-      <div className="image-p flex items-center">
-        <img className="location" src={image2} alt="Location" />
-        <p className="site-p">{t("p")}</p>
-      </div>
-      <h1 className="h1-site">{t("h1")}</h1>
-      <p className="site-p2">{t("p2")}</p>
-      <div className="input-container"> 
-        <input type="text" placeholder={t("email")} className="input" />
-        <button className="button">{t("list")}</button>
-      </div>
-    </div>
+        <div className="div-1 flex">
+          <div className="div-p">
+            <h3 className="Security">{t("Security")}</h3>
+            <h1 className="Keep">{t("Keep")}</h1>
+            <div className="image-p flex items-center">
+              <img className="location" src={image2} alt="Location" />
+              <p className="site-p">{t("p")}</p>
+            </div>
+            <h1 className="h1-site">{t("h1")}</h1>
+            <p className="site-p2">{t("p2")}</p>
+            <div className="input-container">
+              <input type="text" placeholder={t("email")} className="input" />
+              <button className="button">{t("list")}</button>
+            </div>
+          </div>
 
-    <div className="mt-32 md:w-1/2">
-      <img src={image1} alt="App Preview" className="w-full" />
-    </div>
-  </div>
-</main>
-
+          <div className="mt-32 md:w-1/2">
+            <img src={image1} alt="App Preview" className="w-full" />
+          </div>
+        </div>
+      </main>
     </div>
   );
 }

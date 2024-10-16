@@ -3,12 +3,18 @@ import { useTranslation } from "react-i18next";
 import image2 from "../assets/image.2.png";
 import image1 from "../assets/image.1.png";
 import "../App.css";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 function Home() {
   const { t, i18n } = useTranslation();
   const [lang, setLang] = useState("uz");
 
+  const notify = () => toast(t("til"));
+
   function handleChange(e) {
     setLang(e.target.value);
+    notify();
   }
 
   useEffect(() => {
@@ -70,6 +76,19 @@ function Home() {
           </div>
         </div>
       </main>
+
+      <ToastContainer
+        position="top-center"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="dark"
+      />
     </div>
   );
 }

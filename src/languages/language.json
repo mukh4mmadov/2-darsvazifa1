@@ -13,7 +13,8 @@
       "h1": "Join Our Waitlist!",
       "p2": "Be the first to get notified when the product is ready!",
       "email": "Your email address",
-      "list": "Join List!"
+      "list": "Join List!",
+      "til": "Language changed successfully"
     }
   },
   "ru": {
@@ -30,7 +31,8 @@
       "h1": "Присоединяйтесь к нашему списку ожидания!",
       "p2": "Получите уведомление первым, когда продукт будет готов!",
       "email": "Ваш электронный адрес",
-      "list": "Присоединяйтесь к списку!"
+      "list": "Присоединяйтесь к списку!",
+      "til": "Язык успешно изменен"
     }
   },
   "uz": {
@@ -47,7 +49,8 @@
       "h1": "Bizning kutish ro'yxatimizga qo'shiling!",
       "p2": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
       "email": "Sizning e-pochta manzilingiz",
-      "list": "Roʻyxatga qoʻshilish!"
+      "list": "Roʻyxatga qoʻshilish!",
+      "til": "Til muvaffaqiyatli almashtirildi"
     }
   }
 }
